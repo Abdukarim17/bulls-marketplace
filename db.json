@@ -1,0 +1,12 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "title": "EGN lab kit",
+        "price": "free", 
+        "description": "My lab project kit which i used last semester. still like new. giving it away", 
+        "category": "project kit",
+        "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+      }
+    ]
+  }
